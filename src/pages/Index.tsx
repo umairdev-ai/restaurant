@@ -159,7 +159,7 @@ const Index = () => {
       <footer className="border-t border-border py-8">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <p className="text-sm text-muted-foreground">
-            © 2026 Foodie — Fresh & Flavourful. All rights reserved.
+          made by umair  © 2026 Foodie — Fresh & Flavourful. All rights reserved.
           </p>
         </div>
       </footer>
